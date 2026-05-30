@@ -8,7 +8,7 @@ export const profile = {
   linkedin: "https://linkedin.com/in/hruthiky2005/",
   github: "https://github.com/Hruthiky",
   leetcode: "https://leetcode.com/hruthikyenumulapally",
-  resumeFile: "https://drive.google.com/file/d/1oUQGfWd68nRhrq9EJT0-sXiYVsrtCvFA/view?usp=sharing",
+  resumeFile: "https://drive.google.com/file/d/18h7l0Mfov6F3HtRO3TUI5aIdrxlWOY_V/view?usp=sharing",
   objective:
     "Motivated Computer Science undergraduate eager to begin a professional career in a growth-oriented organization. Seeking opportunities to contribute effectively to projects while enhancing knowledge and capabilities through continuous learning."
 };
